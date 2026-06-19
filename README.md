@@ -8,7 +8,7 @@ This project focuses on data cleaning and preprocessing of a sales dataset. The 
 
 * Loaded the dataset using Python and Pandas.
 * Identified missing values in the dataset.
-* Filled missing values in the CouponCode column.
+* Filled missing values in the CouponCode column with "No Coupon".
 * Checked for duplicate rows and duplicate Order IDs.
 * Standardized date formats.
 * Cleaned and formatted text columns.
